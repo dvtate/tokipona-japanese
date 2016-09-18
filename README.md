@@ -4,3 +4,9 @@
 - My mother destroied my original copy when she decided to throw my computer out of a 2nd story window
 - This was a 2-day (both were school days) project, and very clearly is designed for ease of programming as opposed to performance and functionality.
 - I would like to thank toki-pona for only having 120 words, making my life much easier
+
+## To build
+```
+[tate@archbook tokipona-japanese]$ qmake
+[tate@archbook tokipona-japanese]$ make
+```
