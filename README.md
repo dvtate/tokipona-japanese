@@ -10,3 +10,8 @@
 [tate@archbook tokipona-japanese]$ qmake
 [tate@archbook tokipona-japanese]$ make
 ```
+## To run
+- Note: Program must be built before being run
+```
+[tate@archbook tokipona-japanese]$ ./tokiponajapanese 
+```
