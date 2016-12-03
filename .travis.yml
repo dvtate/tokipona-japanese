@@ -1,0 +1,10 @@
+language: cpp
+sudo: true
+
+compiler:
+  - gcc
+  - clang
+  
+script:
+  - qmake
+  - make
