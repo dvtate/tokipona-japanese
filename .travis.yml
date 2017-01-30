@@ -1,5 +1,5 @@
 language: cpp
-sudo: true
+sudo: true # is this neeeded?
 
 compiler:
   - gcc
@@ -8,3 +8,6 @@ compiler:
 script:
   - qmake
   - make
+
+notifications:
+  email: false
