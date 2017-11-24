@@ -8,11 +8,11 @@
 ![Example screenshot](example.png "Example of the program running")
 ## To build [![Build Status](https://travis-ci.org/dvtate/tokipona-japanese.svg?branch=master)](https://travis-ci.org/dvtate/tokipona-japanese)
 ```
-[tate@archbook tokipona-japanese]$ qmake
-[tate@archbook tokipona-japanese]$ make
+tokipona-japanese $ qmake
+tokipona-japanese $ make
 ```
 ## To run
 - Note: Program must be built before being run
 ```
-[tate@archbook tokipona-japanese]$ ./tokiponajapanese 
+tokipona-japanese $ ./tokiponajapanese 
 ```
